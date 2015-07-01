@@ -1,5 +1,5 @@
 gem 'kaminari', github: 'jcoyne/kaminari', branch: 'sufia'
-gem 'active-fedora', '9.2.0.rc1'
+gem 'active-fedora', '9.2.0.rc2'
 gem 'hydra-head', '9.2.0.rc1'
 
 
